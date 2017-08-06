@@ -1,0 +1,8 @@
+1.Summation of relative Prime=(n*phi(n))/2.
+2.Summation of divisors sigma(n) = multiplication of (p^(x+1)-1)/(p-1) for all p where x is the power of p.
+3.mobious function mu(n)={0,  if n has one or more repeated prime (not 			square free) factors;
+ 			1   if n=1; 
+		(-1)^k   if n is a product of k distinct primes;}
+Counted using seive with initialize all with 1.
+4. Lucas Theorem: Find C(n,k)%p where p is prime and n and k are converted into base p numbers and now inidividually multiplying the digit combination.
+5.  A ^ x = A ^ (x% Phi (C) + Phi (C)) (mod C) (X>=Phi(C))

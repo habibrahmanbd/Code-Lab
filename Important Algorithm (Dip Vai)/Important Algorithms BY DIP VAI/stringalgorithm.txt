@@ -1,0 +1,10 @@
+1. Common subtring of some string
+   (i) Using Distinct Delimeter and making bit.
+   (ii) Using one (normally '#') Delimeter and taking index bit(| operation).
+   (iii) Starting always from rool without using Delimeter and traverse and create (if necessary) nodes while traversing taking index bit(| operation).
+   (iv) 2 pointer system in suffix array using one (normally '#').   
+
+2.Finding cycling shift/similarity
+  Just append both the same string to it's end.
+  i.e s=s+s;
+3. Right left should be kept in clone but frequency should be 0 in clone.
