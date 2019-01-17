@@ -78,6 +78,7 @@ int LIS()   // which runs the LIS algorithm and returns the result
     // return the result
     return maxLength;
 }
+
 int LisSequence[32]; // for storing the sequence
 
 void findSequence( int maxLength )   // finds a valid sequence
